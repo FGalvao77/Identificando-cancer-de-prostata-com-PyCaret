@@ -1,4 +1,4 @@
-# Identificando câncer de próstata com PyCaret
+# # **Modelo de classificação de _câncer de próstata_ com `PyCaret`**
 
 ![image](https://user-images.githubusercontent.com/63373520/140661669-f0b17b90-0f6f-44f5-9aaf-2d0e371638ea.png)
 
