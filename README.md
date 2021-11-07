@@ -12,4 +12,4 @@ O principal propósito da biblioteca é otimizar as necessidades do profissional
 
 A biblioteca _"encapsula"_ ou melhor possui um `pipeline` de vários modelos e roda-os simultaneamente e por fim, **ranqueia** os modelos conforme um parâmetro definido de avaliação ou não pelo usuário.
 
-Portanto usaremos toda essa versatilizade do **PyCaret** para realizar classificação de _câncer de próstata.
+Portanto usaremos toda essa versatilidade do **PyCaret** para realizar classificação de _câncer de próstata.
